@@ -21,7 +21,7 @@
     display: block;
     width: 6px;
     height: 14px;
-    border-bottom: 3px solid white;
+    border-bottom: 3px solid rgb(185, 51, 51);
     border-right: 3px solid white;
     transform: translateY(-2px) rotate(45deg);
   }
